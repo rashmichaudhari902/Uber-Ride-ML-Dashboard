@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and lock files
+~$*.xlsx
+~$*.xls
+*.log
+
+# Root copies (organized versions are in data/, models/, output/, src/)
+/*.xlsx
+/*.csv
+/*.pkl
+/config.py
+/dashboard_builder.py
+/data_cleaner.py
+/main.py
+/model_trainer.py
+/rebuild_dashboard.py
+/verify_workbook.py
+/model_evaluation_charts.png
+test_*.py
+test_*.xlsx
+repo_check/
+
+# Local IDE & OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
