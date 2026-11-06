@@ -1,4 +1,4 @@
-🚗 Uber Ride Booking Prediction & Analytics Dashboard
+##🚗 Uber Ride Booking Prediction & Analytics Dashboard
 
 A Machine Learning project that uses the **NCR Ride Bookings dataset** to predict whether a ride booking will be successful or unsuccessful using a **Decision Tree Classifier**. The model predictions and ride analytics are presented through an interactive **Microsoft Excel Dashboard**.
 
